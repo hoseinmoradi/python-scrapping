@@ -1,5 +1,5 @@
 # python-scrapping
-This project was created using Python technology and flask tools to scrape a music site 
+This project was created using flask to scrape a music site 
 
 You need to install the following packages to get started :
 
